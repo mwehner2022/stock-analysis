@@ -1,6 +1,7 @@
 # **Stock-Analysis**
 
 ##**Overview of Project**
+
 ###**Purpose**
 The purpose of this assignment was to help fictional financial advisor, Steve, create a macro on VBA that would analyze all stocks. His parents are particularly interested in investing in DQ stock, but Steve believes the analysis should be run over all stocks. The goal was to refactor the original code to collect all the necessary information through one loop over all the data and do this in less time. The following excel sheet doc was used for the analysis: ![excel file](VBA_Challenge.xlsm)
 

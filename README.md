@@ -1,11 +1,11 @@
 # **Stock-Analysis**
 
-##**Overview of Project**
+## **Overview of Project**
 
-###**Purpose**
+### **Purpose**
 The purpose of this assignment was to help fictional financial advisor, Steve, create a macro on VBA that would analyze all stocks. His parents are particularly interested in investing in DQ stock, but Steve believes the analysis should be run over all stocks. The goal was to refactor the original code to collect all the necessary information through one loop over all the data and do this in less time. The following excel sheet doc was used for the analysis: ![excel file](VBA_Challenge.xlsm)
 
-#**Results**
+# **Results**
 Both scripts initially had similar code where the analysis sheet was formatted to have a header and the initial volume was set to 0 and an array was created for tickers. In the original script the following code was used to capture data on running the analysis for 2017 and 2018. 
 ![This is an image](refactoredCode1.png)
 ![This is an image](refactoredCode2.png)
@@ -42,21 +42,12 @@ This refactured script produces the same outcome but in less time. See screensho
 
 Overall the two scripts produce the same outcome but in this case the refactored script is better organized and runs faster. From the analysis run on the stocks, the DQ stock was down 63% and should not be invested in. The only stocks that returned positive results at the end of 2018 were ENPH and RUN. Both these two stocks were positive at the end of 2017 as well. Steve should have his parents invest in one or both of these stocks. 
 
-##**Summary**
-#**Advantages or Disadvantages of Refactoring**
+## **Summary**
+# **Advantages or Disadvantages of Refactoring**
 The advantages of refactoring code can be making the code more efficient to run faster. It can condense the code using less memory and making it easier for others to read. Overall it leads to better quality code that maintains its original function. 
 Disadvantages of refactoring code include the introduction of bugs to the code. It can also be very time consuming for a larger scale project which could cost more money in the end. 
 <!-- bibliography -->
 [reference] (https://anarsolutions.com/code-refactoring-concept-analysis/)
 
-#**Pros and Cons Applied to this Project**
+# **Pros and Cons Applied to this Project**
 In this case, refactoring the code did make the script run faster than the original code. It also condensed the code to loop through all the data once finding needed information. However, during this process, many new bugs were introduced that needed to be worked out. This included mistyped code and code that did not work. This took time to figure out but in the end it did produce the same functioning script.
-
-
-
-
-
-
-
-
-

@@ -37,8 +37,8 @@ It followed this format:
   6. Lastly, a code was added to loop through the three additional arrays and the outcome was inputted on the analysis sheet.
 
 This refactured script produces the same outcome but in less time. See screenshot below for analysis run on both 2017 and 2018.
-![This is an image] (VBA_Challenge_2017.png)
-![This is an image] (VBA_Challenge_2018.png)
+![This is an image](VBA_Challenge_2017.png)
+![This is an image](VBA_Challenge_2018.png)
 
 Overall the two scripts produce the same outcome but in this case the refactored script is better organized and runs faster. From the analysis run on the stocks, the DQ stock was down 63% and should not be invested in. The only stocks that returned positive results at the end of 2018 were ENPH and RUN. Both these two stocks were positive at the end of 2017 as well. Steve should have his parents invest in one or both of these stocks. 
 

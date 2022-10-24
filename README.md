@@ -50,6 +50,7 @@ Overall the two scripts produce the same outcome but in this case the refactored
 # **Advantages or Disadvantages of Refactoring**
 The advantages of refactoring code can be making the code more efficient to run faster. It can condense the code using less memory and making it easier for others to read. Overall it leads to better quality code that maintains its original function. 
 Disadvantages of refactoring code include the introduction of bugs to the code. It can also be very time consuming for a larger scale project which could cost more money in the end. 
+
 (2017). Code Refactoring: Concept and Analysis. AnAr Solutions Pvt. Ltd. (https://anarsolutions.com/code-refactoring-concept-analysis/)
 
 # **Pros and Cons Applied to this Project**
